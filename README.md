@@ -2,4 +2,4 @@ This is the source code for the algorithm **Motion-Encoded Particle Swarm Optimi
 [Manh Duong Phung](https://uet.vnu.edu.vn/~duongpm/), [Quang Phuc Ha](https://www.uts.edu.au/staff/quang.ha), *"Motion-encoded particle swarm optimization for moving target search using UAVs"*, Journal of Applied soft computing, in press.
 Link to the paper: https://doi.org/10.1016/j.asoc.2020.106705
 
-To run the program, download all the source files and execute "MPSO_MAIN.m" in MATLAB.
+To run the program, download all the source files and run "MPSO_MAIN.m" in MATLAB.
