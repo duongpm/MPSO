@@ -3,3 +3,5 @@ This is the source code for the algorithm **Motion-Encoded Particle Swarm Optimi
 Link to the paper: https://doi.org/10.1016/j.asoc.2020.106705
 
 To run the program, download all the source files and run "MPSO_MAIN.m" in MATLAB.
+
+*Note:* The Statistics and Machine Learning Toolbox needs installing to run the code.
