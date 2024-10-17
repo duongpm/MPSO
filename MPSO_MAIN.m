@@ -6,14 +6,13 @@
 %  Author and programmer: Manh Duong Phung                                %
 %                                                                         %
 %         e-Mail: duongpm@gmail.com                                       %
-%                 duongpm@vnu.edu.vn                                      %
 %                                                                         %
-%       Homepage: https://uet.vnu.edu.vn/~duongpm/                        %
+%       Homepage: https://sites.google.com/view/manhduongphung/           %
 %                                                                         %
 %   Main paper: Manh Duong Phung, Quang Phuc Ha                           %
 %               "Motion-encoded particle swarm optimization for moving    %
 %               target search using UAVs",                                %
-%               Applied soft computing , in press,                        %
+%               Applied soft computing , Volume 97, Part B, pp.106705     %
 %               DOI: https://doi.org/10.1016/j.asoc.2020.106705           %
 %                                                                         %
 %_________________________________________________________________________%
